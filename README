@@ -1,0 +1,5 @@
+This WordPress plugin creates a countdown of days. Just set the future date on this line:
+
+$date = strtotime("January 1, 2016 3:00 PM");
+
+To display the countdown on WordPress page, just use this shortcut: [counting_down_the_days]
