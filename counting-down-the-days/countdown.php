@@ -3,7 +3,7 @@
 /*
 Plugin Name: Counting Down the Days
 Plugin URI: http://uly.me
-Description: php countdown
+Description: This plugin creates a countdown of days. Just set a future time and date. Just add the '[counting_down_the_days]' shortcut in a WordPress post.
 Version: 1.0
 Author: Ulysses Ronquillo
 Author URI: http://uly.me
